@@ -1,7 +1,7 @@
 === WPCOS腾讯云对象存储COS ===
 
 Contributors: laobuluo
-Donate link: https://www.lezaiyun.com/donate/
+Donate link: https://www.laojiang.me/donate/
 Tags:腾讯云COS,腾讯云对象存储,腾讯云wordpress,腾讯云存储分离,腾讯云存储
 Requires at least: 6.0.1
 Tested up to: 6.9.1
@@ -28,11 +28,11 @@ WordPress COS（简称:WPCOS），基于腾讯云COS存储与WordPress实现静�
 8. 支持本地和对象存储分离和同步
 9. 优化重构加速上传
 
-WPCOS插件安装方法：[https://www.lezaiyun.com/1093.html](https://www.lezaiyun.com/1093.html)
+WPCOS插件安装方法：[https://www.laojiang.me/5940.html](https://www.laojiang.me/5940.html)
 
 ## 网站支持
 
-* [老蒋玩运营](https://www.laojiang.me/ "老蒋玩运营")
+* [乐在云](https://www.laojiang.me/ "乐在云")
 
 * [主机评价网](https://www.zhujipingjia.com/ "主机评价网")
 

@@ -1,11 +1,11 @@
 <?php
 /**
 Plugin Name: WPCOS(腾讯云对象存储)
-Plugin URI: https://www.lezaiyun.com/1093.html
+Plugin URI: https://www.laojiang.me/5940.html
 Description: WordPress同步附件内容远程至腾讯云COS云存储中，实现网站数据与静态资源分离，提高网站加载速度。公众号：老蒋朋友圈。
 Version: 4.8
 Author: 老蒋和他的小伙伴
-Author URI: https://www.lezaiyun.com/
+Author URI: https://www.laojiang.me
 Requires PHP: 7.4
 */
 
